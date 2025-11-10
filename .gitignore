@@ -1,0 +1,13 @@
+.venv/
+
+data/
+logs/
+*.parquet
+*.duckdb
+*.csv
+
+__pycache__/
+*.pyc
+
+secrets.py
+.env
